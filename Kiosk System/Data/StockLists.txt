@@ -1,0 +1,5 @@
+1|coca Cola|144|1.25
+2|Highland Spring|196|0.89
+3|Rustlers|53|1.5
+4|Skittles|99|1.0
+23|cofeee|123|1.0
